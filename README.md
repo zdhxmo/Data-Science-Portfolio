@@ -1,10 +1,11 @@
 # Data Science Portfolio
 
-#### This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
+This portfolio is a compilation of notebooks I created for data analysis and to explore machine learning algorithms.
+
 <br/>
 
-- Exploratory Data Analysis
-    
+### Exploratory Data Analysis
+- [Rossman Store Sales](https://github.com/darkMatterChimpanzee/rossman-store-sales)
     
 [//]: # (- Sentiment Analysis)
 
