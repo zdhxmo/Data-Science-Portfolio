@@ -14,7 +14,7 @@ This portfolio is a compilation of notebooks I created for data analysis and to 
 
 ### Exploratory Data Analysis
 
-- [Appointment No Shows]()
+- [Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/EDA/Appointment%20No-Shows)
   - **A person makes a doctor appointment, receives all the instructions and no-show. Who to blame?**
 
 <br />
