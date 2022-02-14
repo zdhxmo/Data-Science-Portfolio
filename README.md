@@ -4,7 +4,7 @@ and self-learning purposes.
 <br />
 <br />
 
-<img src="./img/NYC_airbnb.png" align="left" style="width: 700px; height=400px; margin: 40px" />
+<img src="./img/NYC_airbnb.png" align="left" style="width: 800px; height=400px; margin: 40px" />
 
 [AirBNB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/AirBNB%20NYC)
 
@@ -19,7 +19,7 @@ different areas and what could be the reason for it?
 <br />
 <br />
 
-<img src="./img/product-review.png" align="left" style="width: 700px; height=400px; margin: 40px" />
+<img src="./img/product-review.png" align="left" style="width: 800px; height=400px; margin: 40px" />
 
 [Product Review Analysis](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Product%20Review%20Analysis) 
 
@@ -31,7 +31,7 @@ more for each product. Analysis uses NLP and word clouds to find out polarity in
 <br />
 <br />
 
-<img src="./img/no-appoint.png" align="left" style="width: 700px; height=400px; margin: 40px" />
+<img src="./img/no-appoint.png" align="left" style="width: 800px; height=400px; margin: 40px" />
 
 [Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows)
 
