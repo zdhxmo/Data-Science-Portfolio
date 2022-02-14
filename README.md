@@ -1,84 +1,57 @@
 # Data Science Portfolio
+This is a compilation of all the Data Science and Data Analysis projects I have done for academic
+and self-learning purposes.
+<br />
+<br />
 
-This portfolio is a compilation of notebooks I created for data analysis and to explore machine learning algorithms.
 
-<br/>
+<img src="./img/product-review.png" align="left" style="width: 400px; height=400px; margin: 40px" />
 
-
-### NLP
+<br />
+<br />
 
 - [Product Review Analysis](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/EDA/Product%20Review%20Analysis) 
-    - **This is a list of over 34,000 consumer reviews for Amazon products like the Kindle, Fire TV Stick, and more provided by Datafiniti's Product Database. The dataset includes basic product information, rating, review text, and more for each product. Analysis uses NLP and word clouds to find out polarity in reviews and recommendation percentages**
+
+This is a list of over 34,000 consumer reviews for Amazon products like the Kindle, Fire TV Stick, and more provided by Datafiniti's Product Database. The dataset includes basic product information, rating, review text, and more for each product. Analysis uses NLP and word clouds to find out polarity in reviews and recommendation percentages
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<img src="./img/no-appoint.png" align="left" style="width: 400px; height=400px; margin: 40px" />
 
-### Exploratory Data Analysis
+<br />
 
 - [Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/EDA/Appointment%20No-Shows)
-  - **A person makes a doctor appointment, receives all the instructions and no-show. Who to blame?**
+
+A person makes a doctor appointment, receives all the instructions and no-show. Who to blame?
 
 <br />
 
-
-
-[//]: # (- Sentiment Analysis)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- Chatbots)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- Recommendation System)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 [//]: # ()
-[//]: # ()
-[//]: # (- Risk Analysis)
+[//]: # (<img src="./img/NYC_airbnb.png" align="left" style="width: 400px; height=400px; margin: 40px" />)
 
-[//]: # ()
-[//]: # ()
-[//]: # (- Real Time Analytics)
+[//]: # (- [AirBNB NYC]&#40;&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (- Consumer Analytics)
+[//]: # (Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, 
+personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019. )
 
-[//]: # ()
-[//]: # ()
-[//]: # (- Customer Data Management)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- Fraud Detection)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- Algorithmic Trading)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- Fake News Detection)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- Customer Churn Prediction)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- House Price Prediction)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- Email Spam Detection)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- Facial Recognition)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- Object Detection and Tracking)
-
-[//]: # ()
-[//]: # ()
-[//]: # (- Human Emotion and Gesture Detection )
+[//]: # (What can we learn about different hosts and areas? What can we learn from predictions? &#40;ex: locations, 
+prices, reviews, etc&#41; Which hosts are the busiest and why? Is there any noticeable difference of traffic among 
+different areas and what could be the reason for it?)
