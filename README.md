@@ -5,7 +5,7 @@ and self-learning purposes.
 <br />
 
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/AirBNB%20NYC">
-<img src="./img/NYC_airbnb.png" align="left" style="width: 800px; height: 500px; margin: 40px" />
+<img src="./img/NYC_airbnb.png" align="left" style="width: 300px; height: 300px; margin: 40px" />
 </a>
 <br />
 <br />
@@ -25,9 +25,12 @@ different areas and what could be the reason for it?
 <br />
 <br />
 <br />
+<br />
+<br />
+
 
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Product%20Review%20Analysis">
-<img src="./img/product-review.png" align="left" style="width: 800px; height: 600px; margin: 40px" />
+<img src="./img/product-review.png" align="left" style="width: 300px; height: 300px; margin: 40px" />
 </a>
 <br />
 <br />
@@ -44,14 +47,20 @@ more for each product. Analysis uses NLP and word clouds to find out polarity in
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+
 
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows"> 
-<img src="./img/no-appoint.png" align="left" style="width: 800px; height: 500px; margin: 40px" />
+<img src="./img/no-appoint.png" align="left" style="width: 300px; height: 300px; margin: 40px" />
 </a>
 
 <br />
 <br />
 <br />
+
 
 
 [Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows)
