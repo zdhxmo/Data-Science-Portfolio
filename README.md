@@ -8,9 +8,6 @@ and self-learning purposes.
 <img src="./img/NYC_airbnb.png" align="left" style="width: 300px; height: 300px; margin: 40px" />
 </a>
 <br />
-<br />
-<br />
-
 
 
 [AirBNB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/AirBNB%20NYC)
@@ -24,19 +21,12 @@ different areas and what could be the reason for it?
 
 <br />
 <br />
-<br />
-<br />
-<br />
-
 
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Product%20Review%20Analysis">
 <img src="./img/product-review.png" align="left" style="width: 300px; height: 300px; margin: 40px" />
 </a>
 <br />
-<br />
-<br />
-
-
+<br/>
 
 [Product Review Analysis](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Product%20Review%20Analysis) 
 
@@ -44,8 +34,6 @@ This is a list of over 34,000 consumer reviews for Amazon products like the Kind
 provided by Datafiniti's Product Database. The dataset includes basic product information, rating, review text, and 
 more for each product. Analysis uses NLP and word clouds to find out polarity in reviews and recommendation percentages
 
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -59,8 +47,6 @@ more for each product. Analysis uses NLP and word clouds to find out polarity in
 
 <br />
 <br />
-<br />
-
 
 
 [Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows)
