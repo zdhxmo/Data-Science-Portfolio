@@ -14,7 +14,7 @@ and self-learning purposes.
 
 ### Exploratory Data Analysis
 
-- [AirBNB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/AirBNB%20NYC) : Analysis to understand what we can learn about different hosts and New York's neighbourhood listings on the 
+- [AirBNB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/airBNB%20NYC%20Price%20Prediction) : Analysis to understand what we can learn about different hosts and New York's neighbourhood listings on the 
   airBNB plaform. Which hosts are the busiest? Which neighbourhoods are the busiest?
 
 - [Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows) : 
