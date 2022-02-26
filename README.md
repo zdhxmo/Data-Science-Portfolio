@@ -8,9 +8,10 @@ and self-learning purposes.
 
 <br />
 
-####[Product Review Analysis](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Product%20Review%20Analysis): 
+[Product Review Analysis](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Product%20Review%20Analysis): 
+
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Product%20Review%20Analysis">
-<img src="./img/product-review.png" align="center" style="width: 500px; height: 400px;" />
+<img src="./img/product-review.png" align="left" style="width: 500px; height: 400px" />
 </a>
 
   - Created word clouds using NLP libraries to find out which Amazon products are performing well 
@@ -18,14 +19,25 @@ and self-learning purposes.
   - Figured out the polarity in reviews and recommendation percentages of various products
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### Exploratory Data Analysis
 
 <br />
 
-####[AirBNB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/airBNB%20NYC%20Price%20Prediction) : 
+[AirBNB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/airBNB%20NYC%20Price%20Prediction) : 
+
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/AirBNB%20NYC">
-<img src="./img/NYC_airbnb.png" align="center" style="width: 500px; height: 400px;"/>
+<img src="./img/NYC_airbnb.png" align="left" style="width: 500px; height: 400px"/>
 </a>
 
 <b>Components analyzed to find a relation to price were:</b>
@@ -38,11 +50,24 @@ and self-learning purposes.
 
 
 <br/>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-#### [Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows) :
- <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows"> 
-￼<img src="./img/no-appoint.png" align="center" style="width: 500px; height: 400px" />
-￼</a>
+
+[Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows) :
+
+<a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows"> 
+￼<img src="./img/no-appoint.png" align="left" style="width: 500px; height: 400px" />
+</a>
 <br />
 
 
