@@ -6,12 +6,18 @@ and self-learning purposes.
 
 ## Natural Language Processing
 
-<br />
+
+<h3>
 
 [Product Review Analysis](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Product%20Review%20Analysis): 
 
+</h3>
+
+<br />
+<br />
+
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Product%20Review%20Analysis">
-<img src="./img/product-review.png" align="left" style="width: 500px; height: 400px" />
+<img src="./img/product-review.png" align="left" style="width: 400px; height: 300px; margin-right: 40px;" />
 </a>
 
 <br />
@@ -30,12 +36,18 @@ and self-learning purposes.
 
 ## Exploratory Data Analysis
 
+
+<h3>
+
+[airBnB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/airBNB%20NYC%20Price%20Prediction) : 
+
+</h3>
+
+<br />
 <br />
 
-[AirBNB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/airBNB%20NYC%20Price%20Prediction) : 
-
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/AirBNB%20NYC">
-<img src="./img/NYC_airbnb.png" align="left" style="width: 500px; height: 400px"/>
+<img src="./img/NYC_airbnb.png" align="left" style="width: 400px; height: 300px; margin-right: 40px;"/>
 </a>
 
 <br />
@@ -56,11 +68,19 @@ and self-learning purposes.
 <br />
 <br />
 
+<h3>
+
 [Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows) :
 
+</h3>
+
+<br />
+<br />
+
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows"> 
-￼<img src="./img/no-appoint.png" align="left" style="width: 500px; height: 400px" />
+  ￼<img src="./img/no-appoint.png" align="left" style="width: 400px; height: 300px; margin-right: 40px;" />
 </a>
+
 
 <br />
 <br/>
