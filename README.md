@@ -4,7 +4,7 @@ and self-learning purposes.
 <br />
 <br />
 
-### Natural Language Processing
+## Natural Language Processing
 
 <br />
 
@@ -14,7 +14,10 @@ and self-learning purposes.
 <img src="./img/product-review.png" align="left" style="width: 500px; height: 400px" />
 </a>
 
-  - Created word clouds using NLP libraries to find out which Amazon products are performing well 
+<br />
+<br />
+
+<b>Created word clouds using NLP libraries (TextBlob, WordCloud and CountVectorizer) to find out which Amazon products are performing well</b>
   - Engineered features from the text of each product to quantify their values
   - Figured out the polarity in reviews and recommendation percentages of various products
 
@@ -23,14 +26,9 @@ and self-learning purposes.
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-### Exploratory Data Analysis
+
+## Exploratory Data Analysis
 
 <br />
 
@@ -39,6 +37,9 @@ and self-learning purposes.
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/AirBNB%20NYC">
 <img src="./img/NYC_airbnb.png" align="left" style="width: 500px; height: 400px"/>
 </a>
+
+<br />
+<br />
 
 <b>Components analyzed to find a relation to price were:</b>
 - frequency of properties in each neighbourhood of NY
@@ -49,29 +50,22 @@ and self-learning purposes.
 - Who hosted the guests
 
 
-<br/>
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 
 [Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows) :
 
 <a href="https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows"> 
 ￼<img src="./img/no-appoint.png" align="left" style="width: 500px; height: 400px" />
 </a>
+
 <br />
+<br/>
 
-
-- Did an extensive cleanup of data
+<b>Did an extensive cleanup of data </b>
 - Computed total no-shows to appointments
 - Analyzed 
   - age
