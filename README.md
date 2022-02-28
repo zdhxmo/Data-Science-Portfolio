@@ -11,7 +11,7 @@ and self-learning purposes.
 
 <br />
 
-[Diabetes Prediction in Pima Indians]() - work in progress
+[Diabetes Prediction in Pima Indians](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Diabetes%20Prediction%20in%20Pima%20Indians) - work in progress
 
 <b>Used machine learning algorithms to create an optimal prediction model for cases of diabetes in 
 a population of Pima Indians</b>
@@ -23,6 +23,8 @@ Models used in this notebook include:
   - Support Vector Machine
   - Random Forest
 
+
+<br />
 
 ------------------------------------------------------------------------------------------------------------------------
 <br />
