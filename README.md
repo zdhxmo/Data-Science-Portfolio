@@ -4,6 +4,25 @@ and self-learning purposes.
 <br />
 <br />
 
+------------------------------------------------------------------------------------------------------------------------
+<br />
+
+### Machine Learning
+
+<br />
+
+[Diabetes Prediction in Pima Indians]() - work in progress
+
+<b>Used machine learning algorithms to create an optimal prediction model for cases of diabetes in 
+a population of Pima Indians</b>
+
+Models used in this notebook include:
+  - KNN
+  - Logistic Regression
+  - Decision Tree
+  - Support Vector Machine
+  - Random Forest
+
 
 ------------------------------------------------------------------------------------------------------------------------
 <br />
