@@ -11,7 +11,7 @@ and self-learning purposes.
 
 <br />
 
-[Loan Default Prediction]()
+[Loan Default Prediction](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Predicting%20Loan%20Defaults)
 
 <b>Using prediction models to determine who may or may not default on their loans</b>
 
