@@ -11,12 +11,22 @@ and self-learning purposes.
 
 <br />
 
-[Diabetes Prediction in Pima Indians](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Diabetes%20Prediction%20in%20Pima%20Indians) - work in progress
+[Loan Default Prediction]()
+
+<b>Using prediction models to determine who may or may not default on their loans</b>
+
+- Conducted feature engineering of necessary features for the prediction models 
+
+
+<br />
+
+[Diabetes Prediction in Pima Indians](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Diabetes%20Prediction%20in%20Pima%20Indians)
 
 <b>Used machine learning algorithms to create an optimal prediction model for cases of diabetes in 
 a population of Pima Indians</b>
 
-Models used in this notebook include:
+- Conducted feature engineering of necessary features for the prediction models 
+- Models used in this notebook include:
   - KNN
   - Logistic Regression
   - Decision Tree
