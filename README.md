@@ -79,3 +79,11 @@ This is a compilation of all the data analysis and machine learning projects I h
 
 ------------------------------------------------------------------------------------------------------------------------
 <br />
+
+[Misc Notebooks]()
+
+<b>Smaller projects that I use to learn the important components to be applied in bigger projects</b>
+
+
+------------------------------------------------------------------------------------------------------------------------
+<br />
