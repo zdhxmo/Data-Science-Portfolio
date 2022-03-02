@@ -1,6 +1,5 @@
 # Data Science Portfolio
-This is a compilation of all the data analysis and machine learning projects I have worked on for academic
-and self-learning purposes.
+This is a compilation of all the data analysis and machine learning projects I have worked on for academic and self-learning purposes.
 <br />
 <br />
 
@@ -22,16 +21,10 @@ and self-learning purposes.
 
 [Diabetes Prediction in Pima Indians](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Diabetes%20Prediction%20in%20Pima%20Indians)
 
-<b>Used machine learning algorithms to create an optimal prediction model for cases of diabetes in 
-a population of Pima Indians</b>
+<b>Used machine learning algorithms to create an optimal prediction model for cases of diabetes in a population of Pima Indians</b>
 
 - Conducted feature engineering of necessary features for the prediction models 
-- Models used in this notebook include:
-  - KNN
-  - Logistic Regression
-  - Decision Tree
-  - Support Vector Machine
-  - Random Forest
+- Ran features through multiple models to find the highest prediction rate to find traits that might help in predicting diabetes in patients
 
 
 <br />
@@ -54,13 +47,13 @@ a population of Pima Indians</b>
 ------------------------------------------------------------------------------------------------------------------------
 <br />
 
-### Exploratory Data Analysis
+### Data Analysis & Visualization
 
 <br />
 
 [airBnB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/airBNB%20NYC%20Price%20Prediction) : 
 
-<b>Components analyzed to find a relation to price were:</b>
+<b>Conducted an extensive data analysis based on: </b>
 - frequency of properties in each neighbourhood of NY
 - neighbourhood listings
 - Pricing per neighbourhood
@@ -73,7 +66,7 @@ a population of Pima Indians</b>
 
 [Appointment No Shows](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Appointment%20No-Shows) :
 
-<b>Conducted an extensive data cleanup </b>
+<b>Conducted an extensive data analysis and cleanup </b>
 - Computed total no-shows to appointments
 - Analyzed the following to find patterns of cancellations: 
   - age
