@@ -51,7 +51,7 @@ This is a compilation of all the data analysis and machine learning projects I h
 
 <br />
 
-[airBnB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/airBNB%20NYC%20Price%20Prediction) : 
+[airBnB NYC](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/airBNB%20house%20prices%20analysis) : 
 
 <b>Conducted an extensive data analysis based on: </b>
 - frequency of properties in each neighbourhood of NY
