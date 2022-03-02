@@ -15,8 +15,8 @@ and self-learning purposes.
 
 <b>Using prediction models to determine who may or may not default on their loans</b>
 
-- Conducted feature engineering of necessary features for the prediction models 
-
+- Conducted feature engineering to pick the optimal predictors
+- Ran features through multiple models to find the highest prediction rate to find traits that might lead to defaulting on loans
 
 <br />
 
