@@ -21,7 +21,7 @@ This is a compilation of all the data analysis and machine learning projects I h
 
 [Diabetes Prediction in Pima Indians](https://diabetes-prediction-dmchimp.herokuapp.com/)
 
-<b>Used machine learning algorithms to create an optimal prediction model for cases of diabetes in a population of Pima Indians</b>
+<b>Used machine learning algorithms to create an optimal prediction model for cases of diabetes in a female population of Pima Indians</b>
 
 - Conducted feature engineering of necessary features for the prediction models 
 - Ran features through multiple models to find the highest prediction rate to find traits that might help in predicting diabetes in patients
