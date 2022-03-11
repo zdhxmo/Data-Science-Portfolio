@@ -25,9 +25,9 @@ This is a compilation of all the data analysis and machine learning projects I h
 
 - Conducted feature engineering of necessary features for the prediction models 
 - Ran features through multiple models to find the highest prediction rate to find traits that might help in predicting diabetes in patients
+- Deployed SVC model with a 85.57% accuracy at predicting whether a patient has diabetes or not.
 
-<br />
-[Github Repo](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Diabetes%20Prediction%20in%20Pima%20Indians)
+- [Check out the github repo here](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Diabetes%20Prediction%20in%20Pima%20Indians)
 
 <br />
 
