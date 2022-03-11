@@ -19,13 +19,15 @@ This is a compilation of all the data analysis and machine learning projects I h
 
 <br />
 
-[Diabetes Prediction in Pima Indians](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Diabetes%20Prediction%20in%20Pima%20Indians)
+[Diabetes Prediction in Pima Indians](https://diabetes-prediction-dmchimp.herokuapp.com/)
 
 <b>Used machine learning algorithms to create an optimal prediction model for cases of diabetes in a population of Pima Indians</b>
 
 - Conducted feature engineering of necessary features for the prediction models 
 - Ran features through multiple models to find the highest prediction rate to find traits that might help in predicting diabetes in patients
 
+<br />
+[Github Repo](https://github.com/darkMatterChimpanzee/Data-Science-Portfolio/tree/main/Diabetes%20Prediction%20in%20Pima%20Indians)
 
 <br />
 
